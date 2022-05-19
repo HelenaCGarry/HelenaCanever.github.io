@@ -7,11 +7,7 @@
 
 Classification of Galaxies, Stars and Quasars based on the RD14 from the Sloan Digital Sky Survey Classification. 
 
-[<img src="https://github.com/HelenaCanever/Classifying-celestial-objects-with-ML/blob/main/jeremy-thomas-E0AHdsENmDg-unsplash.jpg" align="center" height=300/>](https://github.com/HelenaCanever/Image-analysis))
-
-![jeremy-thomas-E0AHdsENmDg-unsplash.jpg](https://github.com/HelenaCanever/Classifying-celestial-objects-with-ML/blob/main/jeremy-thomas-E0AHdsENmDg-unsplash.jpg)
-
-
+[<img src="https://github.com/HelenaCanever/Classifying-celestial-objects-with-ML/blob/main/jeremy-thomas-E0AHdsENmDg-unsplash.jpg" align="center" height=300/>](https://github.com/HelenaCanever/Image-analysis)
 
 
 <br/><br/>
