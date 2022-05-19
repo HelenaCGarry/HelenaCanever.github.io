@@ -31,12 +31,13 @@ This set of macros has been developed to perform different tasks in the analysis
 
 
 <br/><br/>
-## [Exploratory data analysis on speed dating data](https://github.com/HelenaCanever/EDA-on-speed-dating-data)
+## [Exploratory data analysis on speed dating data 💘](https://github.com/HelenaCanever/EDA-on-speed-dating-data)
 
 ![repo-size](https://shields.io/github/repo-size/HelenaCanever/EDA-on-speed-dating-data)
 ![update](https://badges.pufler.dev/updated/HelenaCanever/EDA-on-speed-dating-data)
 
-Repo description 
+The dataset was obtained from the [Speed Dating Experiment dataset](https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment) on Kaggle.
+The aim is to investigate the factors and biases influecing the choice of the individual participating to the speed dating sessions.
 
 <br/><br/>
 
@@ -58,8 +59,16 @@ Repo description
 ![repo-size](https://shields.io/github/repo-size/HelenaCanever/Web-scarping-and-database-generation-from-bookings.com)
 ![update](https://badges.pufler.dev/updated/HelenaCanever/Web-scarping-and-database-generation-from-bookings.com)
 
-Repo description 
+The goal of the project is to obtain data on different french cities and travel destination that can be potentially implemented in a recommendation app. The application should be based on real data about:
 
+Weather
+Hotels in the area
+More specifically we are required to:
+- Scrape data from destinations
+- Get weather data from each destination
+- Get hotels' info about each destination
+- Store all the information above in a data lake
+- Extract, transform and load cleaned data from your datalake to a data warehouse
 <br/><br/>
 
 
@@ -69,12 +78,7 @@ Repo description
 ![repo-size](https://shields.io/github/repo-size/HelenaCanever/Hotspot-detection-with-ML))
 ![update](https://badges.pufler.dev/updated/HelenaCanever/Hotspot-detection-with-ML))
 
-Repo description 
-
-
-
-
-
+The task at hand is to detect hotspots for Uber pickup in NY to better help drivers be where they are needed.
 
 <br/><br/>
 # Contact
