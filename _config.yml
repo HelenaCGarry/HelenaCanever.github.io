@@ -1,3 +1,4 @@
 title: Helena Canever's repositories
 description: Data Scientist with a biology background
-theme: minimal-mistakes-jekyll
+plugin: jekyll-include-cache
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
