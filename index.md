@@ -46,7 +46,7 @@ The aim is to investigate the factors and biases influecing the choice of the in
 ![repo-size](https://shields.io/github/repo-size/HelenaCanever/Sales-Prediction-with-ML)
 ![update](https://badges.pufler.dev/updated/HelenaCanever/Sales-Prediction-with-ML)
 
-Repo description 
+Updates soon...
 
 <br/><br/>
 
