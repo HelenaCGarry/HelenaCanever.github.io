@@ -7,7 +7,8 @@
 ![update](https://badges.pufler.dev/updated/HelenaCanever/Classifying-celestial-objects-with-ML)
 
 Classification of Galaxies, Stars and Quasars based on the RD14 from the Sloan Digital Sky Survey Classification 
-[<img>](https://github.com/HelenaCanever/Classifying-celestial-objects-with-ML/blob/main/pexels-david-kopacz-4994765.jpg)
+![pexels-david-kopacz-4994765.jpg](https://github.com/HelenaCanever/Classifying-celestial-objects-with-ML/blob/main/pexels-david-kopacz-4994765.jpg)
+
 
 <br/><br/>
 
