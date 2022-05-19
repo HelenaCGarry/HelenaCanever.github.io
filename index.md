@@ -6,7 +6,7 @@
 ![repo-size](https://shields.io/github/repo-size/HelenaCanever/Classifying-celestial-objects-with-ML)
 ![update](https://badges.pufler.dev/updated/HelenaCanever/Classifying-celestial-objects-with-ML)
 
-Classify galaxies, stars and ... 
+Classification of Galaxies, Stars and Quasars based on the RD14 from the Sloan Digital Sky Survey Classification 
 
 <br/><br/>
 
