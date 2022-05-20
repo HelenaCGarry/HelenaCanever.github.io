@@ -57,17 +57,17 @@ More specifically we are required to:
 - Get hotels' info about each destination
 - Store all the information above in a data lake
 - Extract, transform and load cleaned data from your datalake to a data warehouse
-{% include best_hotels.html %}
+{% include best_hotels.html max-width="300px" %}
 
 <br/><br/>
 
 ## [Hotspots detection with ML](https://github.com/HelenaCanever/Hotspot-detection-with-ML)
 
-![repo-size](https://shields.io/github/repo-size/HelenaCanever/Hotspot-detection-with-ML))
-![update](https://badges.pufler.dev/updated/HelenaCanever/Hotspot-detection-with-ML))
+![repo-size](https://shields.io/github/repo-size/HelenaCanever/Hotspot-detection-with-ML)
+![update](https://badges.pufler.dev/updated/HelenaCanever/Hotspot-detection-with-ML)
 
 The task at hand is to detect hotspots for Uber pickup in NY to better help drivers be where they are needed.
-{% include Hour_map.html %}
+{% include Hour_map.html max-width="300px" %}
 
 <br/><br/>
 # Contact
