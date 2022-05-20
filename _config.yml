@@ -7,6 +7,8 @@ author:
   name   : "Helena Canever"
   avatar : "/assets/images/11053304_10205763187672274_5855646528462490088_o.jpg"
   bio    : "Data Scientist with a background in cell biology and automatization of image analysis"
+  location         : "Paris, France"
+  email            : "helena.canever@gmail.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -15,13 +17,30 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/helenacanever"
 
+
 remote_theme: 'mmistakes/minimal-mistakes@4.24.0'
 plugins: 
 - jekyll-include-cache
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-gist
+- jekyll-feed
+- jemoji
 
-classes: wide
 minimal_mistakes_skin: dirt
 search: true
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+classes: wide
+
 
 
 titles_from_headings:
@@ -29,6 +48,54 @@ titles_from_headings:
   strip_title: true
   collections: true
 
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/helenacanever"
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+    
+    
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      classes: wide
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: archive
+      author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: archive
+      author_profile: true
+      share: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
     
 
 
