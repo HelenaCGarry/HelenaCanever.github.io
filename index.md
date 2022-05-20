@@ -21,7 +21,7 @@ Classification of Galaxies, Stars and Quasars based on the RD14 from the Sloan D
 
 This set of macros has been developed to perform different tasks in the analysis of confocal and spectral images of epithelial adhesion complexes. The macros allow to quickly segment regions of interest, calculate FRET and perform multiple intensity measurements.
 
-[<img src="assets/Image%20(15)VINTS_LD%20scalebar%20and%20zoomin.png" align="center" height=300/>](https://github.com/HelenaCanever/Image-analysis)
+[<img src="assets/Image%20(15)VINTS_LD%20scalebar%20and%20zoomin.png" align="center" height=250/>](https://github.com/HelenaCanever/Image-analysis)
 
 
 
@@ -36,6 +36,8 @@ This set of macros has been developed to perform different tasks in the analysis
 
 The dataset was obtained from the [Speed Dating Experiment dataset](https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment) on Kaggle.
 The aim is to investigate the factors and biases influecing the choice of the individual participating to the speed dating sessions.
+
+[<img src="assets/speeddating_plot.png" align="center" height=250/>](https://github.com/HelenaCanever/EDA-on-speed-dating-data)
 
 <br/><br/>
 
