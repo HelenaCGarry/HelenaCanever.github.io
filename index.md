@@ -57,7 +57,7 @@ More specifically we are required to:
 - Get hotels' info about each destination
 - Store all the information above in a data lake
 - Extract, transform and load cleaned data from your datalake to a data warehouse
-{% include best_hotels.html max-width="300px" %}
+[<img src="assets/images/hotels_preview.png" align="center" height=250/>](https://github.com/HelenaCanever/Web-scarping-and-database-generation-from-bookings.com)
 
 <br/><br/>
 
@@ -67,7 +67,8 @@ More specifically we are required to:
 ![update](https://badges.pufler.dev/updated/HelenaCanever/Hotspot-detection-with-ML)
 
 The task at hand is to detect hotspots for Uber pickup in NY to better help drivers be where they are needed.
-{% include Hour_map.html max-width="300px" %}
+
+[<img src="assets/images/map_preview.png" align="center" height=250/>](https://github.com/HelenaCanever/Hotspot-detection-with-ML)
 
 <br/><br/>
 # Contact
