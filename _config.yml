@@ -1,3 +1,4 @@
 title: Helena Canever PhD, Data Scientist
 description: Data Scientist with a biology background
 theme: minima
+plugins: jekyll-include-cache
