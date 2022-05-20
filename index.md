@@ -21,7 +21,7 @@ This set of macros has been developed to perform different tasks in the analysis
 
 <br/><br/>
 
-## [Exploratory data analysis on speed dating data 💘](https://github.com/HelenaCanever/EDA-on-speed-dating-data)
+## [Exploratory data analysis on speed dating data](https://github.com/HelenaCanever/EDA-on-speed-dating-data)
 
 ![repo-size](https://shields.io/github/repo-size/HelenaCanever/EDA-on-speed-dating-data)
 ![update](https://badges.pufler.dev/updated/HelenaCanever/EDA-on-speed-dating-data)
@@ -57,6 +57,7 @@ More specifically we are required to:
 - Get hotels' info about each destination
 - Store all the information above in a data lake
 - Extract, transform and load cleaned data from your datalake to a data warehouse
+
 [<img src="assets/images/hotels_preview.png" align="center" height=250/>](https://github.com/HelenaCanever/Web-scarping-and-database-generation-from-bookings.com)
 
 <br/><br/>
