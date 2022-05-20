@@ -8,11 +8,6 @@
 Classification of Galaxies, Stars and Quasars based on the RD14 from the Sloan Digital Sky Survey Classification. 
 
 [<img src="assets/jeremy-thomas-E0AHdsENmDg-unsplash.jpg" align="center" height=300/>](https://github.com/HelenaCanever/Image-analysis)
-
-
-<br/><br/>
-
-
 <br/><br/>
 ## [Image analysis of FRET signal from focal adhesions](https://github.com/HelenaCanever/Image-analysis)
 
@@ -23,12 +18,8 @@ This set of macros has been developed to perform different tasks in the analysis
 
 [<img src="assets/FRET.png" align="center" height=250/>](https://github.com/HelenaCanever/Image-analysis)
 
-
-
 <br/><br/>
 
-
-<br/><br/>
 ## [Exploratory data analysis on speed dating data 💘](https://github.com/HelenaCanever/EDA-on-speed-dating-data)
 
 ![repo-size](https://shields.io/github/repo-size/HelenaCanever/EDA-on-speed-dating-data)
@@ -41,8 +32,6 @@ The aim is to investigate the factors and biases influecing the choice of the in
 
 <br/><br/>
 
-
-<br/><br/>
 ## [Sales prediction with Machine Learning](https://github.com/HelenaCanever/Sales-Prediction-with-ML)
 
 ![repo-size](https://shields.io/github/repo-size/HelenaCanever/Sales-Prediction-with-ML)
@@ -52,8 +41,6 @@ Updates soon...
 
 <br/><br/>
 
-
-<br/><br/>
 ## [Web scraping and database generation](https://github.com/HelenaCanever/Web-scarping-and-database-generation-from-bookings.com)
 
 ![repo-size](https://shields.io/github/repo-size/HelenaCanever/Web-scarping-and-database-generation-from-bookings.com)
@@ -69,10 +56,9 @@ More specifically we are required to:
 - Get hotels' info about each destination
 - Store all the information above in a data lake
 - Extract, transform and load cleaned data from your datalake to a data warehouse
+- 
 <br/><br/>
 
-
-<br/><br/>
 ## [Hotspots detection with ML](https://github.com/HelenaCanever/Hotspot-detection-with-ML)
 
 ![repo-size](https://shields.io/github/repo-size/HelenaCanever/Hotspot-detection-with-ML))
