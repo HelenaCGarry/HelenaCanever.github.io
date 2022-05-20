@@ -21,7 +21,7 @@ Classification of Galaxies, Stars and Quasars based on the RD14 from the Sloan D
 
 This set of macros has been developed to perform different tasks in the analysis of confocal and spectral images of epithelial adhesion complexes. The macros allow to quickly segment regions of interest, calculate FRET and perform multiple intensity measurements.
 
-[<img src="assets/Image%20(15)VINTS_LD%20scalebar%20and%20zoomin.png" align="center" height=250/>](https://github.com/HelenaCanever/Image-analysis)
+[<img src="assets/FRET.png" align="center" height=250/>](https://github.com/HelenaCanever/Image-analysis)
 
 
 
