@@ -8,3 +8,18 @@ titles_from_headings:
   enabled:     true
   strip_title: true
   collections: true
+  
+sidebar:
+  - title: "Helena Canever"
+    image: "/assets/your-image.jpg"
+    image_alt: "image"
+    text: "Cell Biologist with a strong experience in data analysis and modeling.\ Open to new opportunities in the world of Data Science."
+    links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/HelenaCanever"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/helenacanever/"
+
+
