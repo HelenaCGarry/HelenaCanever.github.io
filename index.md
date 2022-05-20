@@ -9,6 +9,7 @@ Classification of Galaxies, Stars and Quasars based on the RD14 from the Sloan D
 
 [<img src="assets/images/68747470733a2f2f7777772e736473732e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f30372f736473735f6761756c6d65312e6a7067.jfif" align="center" height=300/>](https://github.com/HelenaCanever/Image-analysis)
 <br/><br/>
+
 ## [Image analysis of FRET signal from focal adhesions](https://github.com/HelenaCanever/Image-analysis)
 
 ![repo-size](https://shields.io/github/repo-size/HelenaCanever/Image-analysis)
@@ -56,7 +57,6 @@ More specifically we are required to:
 - Get hotels' info about each destination
 - Store all the information above in a data lake
 - Extract, transform and load cleaned data from your datalake to a data warehouse
-
 {% include best_hotels.html %}
 
 <br/><br/>
@@ -67,6 +67,7 @@ More specifically we are required to:
 ![update](https://badges.pufler.dev/updated/HelenaCanever/Hotspot-detection-with-ML))
 
 The task at hand is to detect hotspots for Uber pickup in NY to better help drivers be where they are needed.
+{% include Hour_map.html %}
 
 <br/><br/>
 # Contact
