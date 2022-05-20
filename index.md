@@ -7,7 +7,7 @@
 
 Classification of Galaxies, Stars and Quasars based on the RD14 from the Sloan Digital Sky Survey Classification. 
 
-[<img src="assets/jeremy-thomas-E0AHdsENmDg-unsplash.jpg" align="center" height=300/>](https://github.com/HelenaCanever/Image-analysis)
+[<img src="assets/images/68747470733a2f2f7777772e736473732e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f30372f736473735f6761756c6d65312e6a7067.jfif" align="center" height=300/>](https://github.com/HelenaCanever/Image-analysis)
 <br/><br/>
 ## [Image analysis of FRET signal from focal adhesions](https://github.com/HelenaCanever/Image-analysis)
 
@@ -16,7 +16,7 @@ Classification of Galaxies, Stars and Quasars based on the RD14 from the Sloan D
 
 This set of macros has been developed to perform different tasks in the analysis of confocal and spectral images of epithelial adhesion complexes. The macros allow to quickly segment regions of interest, calculate FRET and perform multiple intensity measurements.
 
-[<img src="assets/FRET.png" align="center" height=250/>](https://github.com/HelenaCanever/Image-analysis)
+[<img src="assets/images/FRET.png" align="center" height=250/>](https://github.com/HelenaCanever/Image-analysis)
 
 <br/><br/>
 
@@ -28,7 +28,7 @@ This set of macros has been developed to perform different tasks in the analysis
 The dataset was obtained from the [Speed Dating Experiment dataset](https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment) on Kaggle.
 The aim is to investigate the factors and biases influecing the choice of the individual participating to the speed dating sessions.
 
-[<img src="assets/speeddating_plot.png" align="center" height=250/>](https://github.com/HelenaCanever/EDA-on-speed-dating-data)
+[<img src="assets/images/speeddating_plot.png" align="center" height=250/>](https://github.com/HelenaCanever/EDA-on-speed-dating-data)
 
 <br/><br/>
 
@@ -56,7 +56,9 @@ More specifically we are required to:
 - Get hotels' info about each destination
 - Store all the information above in a data lake
 - Extract, transform and load cleaned data from your datalake to a data warehouse
-- 
+
+{% include best_hotels.html %}
+
 <br/><br/>
 
 ## [Hotspots detection with ML](https://github.com/HelenaCanever/Hotspot-detection-with-ML)
