@@ -2,7 +2,6 @@
 
 ## [Classifying celestial objects with ML](https://HelenaCanever.github.io/Classifying-celestial-objects-with-ML)
 
-
 ![repo-size](https://shields.io/github/repo-size/HelenaCanever/Classifying-celestial-objects-with-ML)
 ![update](https://badges.pufler.dev/updated/HelenaCanever/Classifying-celestial-objects-with-ML)
 
