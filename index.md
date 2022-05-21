@@ -7,7 +7,7 @@
 
 Classification of Galaxies, Stars and Quasars based on the RD14 from the Sloan Digital Sky Survey Classification. 
 
-[<img src="assets/images/68747470733a2f2f7777772e736473732e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f30372f736473735f6761756c6d65312e6a7067.jfif" align="center" height=300/>](https://github.com/HelenaCanever/Image-analysis)
+[<img src="assets/images/68747470733a2f2f7777772e736473732e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f30372f736473735f6761756c6d65312e6a7067.jfif" align="center" height=300/>](https://github.com/HelenaCanever/Classifying-celestial-objects-with-ML)
 <br/><br/>
 
 ## [Image analysis of FRET signal from focal adhesions](https://github.com/HelenaCanever/Image-analysis)
