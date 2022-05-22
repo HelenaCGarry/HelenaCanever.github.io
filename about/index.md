@@ -6,7 +6,7 @@ comments: false
 ---
 
 ## Bio
-I was born in Italy and grew up in Italy ad Finland.  
+I was born in Italy and grew up in Italy and Finland.  
 
 As a young student I pursued my studies in Molecular Biology and Genetics. 
 
