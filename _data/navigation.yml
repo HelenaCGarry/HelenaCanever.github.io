@@ -1,8 +1,8 @@
 # main links
 main:
-  # - title: "Posts"
-  #  url: /_posts/
-  # main links links
+   - title: "Posts"
+    url: /_posts/
+   main links links
   - title: About
     url: /about/
   - title: Portfolio
