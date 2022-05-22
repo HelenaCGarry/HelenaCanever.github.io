@@ -9,10 +9,10 @@ minimal_mistakes_skin    :  "dirt" #"contrast", "default", "air", "aqua", "contr
 
 # Site Settings
 locale                   : "en"
-title                    : "Helena Canever, Data scientist, Phd"
+title                    : "Helena Canever, Data scientist, PhD"
 title_separator          : "-"
 name                     : "Helena Canever"
-description              : "Budding data scientist, always learning"
+description              : "Junior data scientist. Here you can find my latest projects."
 url                      : https://HelenaCanever.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -69,7 +69,7 @@ analytics:
 # Site Author
 author:
   name             : "Helena Canever"
-  avatar           : "/assets/images/11053304_10205763187672274_5855646528462490088_o.jpg.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/11053304_10205763187672274_5855646528462490088_o.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Budding data scientist, always learning"
   location         : "Paris, France"
   email            : helena.canever@gmail.com
