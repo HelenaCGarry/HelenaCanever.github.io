@@ -1,25 +1,9 @@
 # main links
 main:
-   - title: "Posts"
-    url: /_posts/
+  # - title: "Posts"
+  #  url: /_posts/
   # main links links
   - title: About
     url: /about/
   - title: Portfolio
     url: /portfolio/
-  # - title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-  # - title: About
-  #   url: /about/
-  # - title: Blog Posts
-  #   url: /posts/
-  #- title: Projects
-  #   url: /projects/
