@@ -3,7 +3,10 @@ title: "Classifying celestial objects with ML"
 categories:
   - posts
 tags:
-  - machine_learning, classification, XGBoost, sklearn
+  - machine_learning
+  - classification
+  - XGBoost
+  - Sci-kit Learn
 ---
 
 
