@@ -19,6 +19,10 @@ My thesis focused on tracking of cell migration in different contexts (individua
 After defending my thesis in 2021, I decided to convert to Data Science and follow my interest for programming and analytics.
 I am currently completing a Data Science bootcamp at Jedha in Paris, France.
 
+## My resume
+
+[View]({{ [https://helenacanever.github.io}}/assets/CV_HelenaCanever_2022.pdf)
+
 
 ## Education
 - Bachelor in Molecular Biology at Università degli Studi di Padova
