@@ -1,6 +1,5 @@
 ---
 title: "Classifying celestial objects with ML"
-link: https://github.com/HelenaCanever/Classifying-celestial-objects-with-ML
 categories:
   - posts
 tags:
