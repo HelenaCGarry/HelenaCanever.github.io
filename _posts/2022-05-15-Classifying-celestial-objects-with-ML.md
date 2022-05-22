@@ -1,3 +1,14 @@
+---
+title: "Classifying celestial objects with ML"
+categories:
+  - posts
+tags:
+  - machine_learning, classification, XGBoost, sklearn
+---
+
+
+
+
 # Classifying celestial objects with ML
 The aim of this notebook is the classification of observations of space in three different categories: stars, galaxies, quasars.
 To do so I use data from the [Sloan Digital Sky Survey Classification](https://www.sdss.org/).
