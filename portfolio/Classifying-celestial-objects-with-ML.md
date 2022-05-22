@@ -3,12 +3,14 @@ title: Astronomical Classifier
 excerpt: An XGBoost-based machine learning algorythm for the classification of astronomical objects
 header:
   teaser: /assets/images/68747470733a2f2f7777772e736473732e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f30372f736473735f6761756c6d65312e6a7067.jfif
-
-sidebar:
-  - title: "Skills"
-    #image: http://placehold.it/350x250
-    #image_alt: "logo"
-    text: "XGBoost, Sci-kit Learn, SQL"
+    
+layout: single
+title: Portfolio
+tags: 
+  -  XGBoost
+  -  Sci-kit Learn
+  -  SQL
+comments: false
 ---
 
 The aim of this notebook is the classification of observations of space in three different categories: stars, galaxies, quasars.
