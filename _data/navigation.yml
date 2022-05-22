@@ -1,24 +1,13 @@
 # main links
 main:
-  # - title: "Posts"
-  #  url: /_posts/
+   - title: "Posts"
+    url: /_posts/
   # main links links
   - title: About
     url: /about/
-  - title: Consulting
-    url: /consulting/
   - title: Portfolio
     url: /portfolio/
-  - title: Media
-    url: /media/   
-  - title: Interviews
-    url: /interviews/
-  - title: Resources
-    url: /resources/
-  - title: Diversity
-    url: /diversity/
-  - title: Melange
-    url: /melange/
+ 
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
