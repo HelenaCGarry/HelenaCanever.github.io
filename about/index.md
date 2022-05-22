@@ -6,7 +6,8 @@ comments: false
 ---
 
 ## Bio
-I was born in Italy and grew up in Italy ad Finland. As a young student I pursued my studies in Molecular Biology and Genetics. 
+I was born in Italy and grew up in Italy ad Finland.  
+As a young student I pursued my studies in Molecular Biology and Genetics. 
 In 2017, I participated to the double degree partnership between the Università degli Studi di Padova and Université Paris Diderot and I obtain my masters in Molecular Biology and in Genetics.
 Also in 2017, I began my PhD in Physiology and Physiopathology at the Université Paris Cité in the laboratory of Nicolas Borghi.
 During this time I grew interested in programming, especially applied to image analysis and automatization of data analysis and began learning Python.
