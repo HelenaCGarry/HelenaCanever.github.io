@@ -1,5 +1,6 @@
 ---
 title: "Classifying celestial objects with ML"
+link: https://github.com/HelenaCanever/Classifying-celestial-objects-with-ML
 categories:
   - posts
 tags:
@@ -10,9 +11,6 @@ tags:
 ---
 
 
-
-
-# Classifying celestial objects with ML
 The aim of this notebook is the classification of observations of space in three different categories: stars, galaxies, quasars.
 To do so I use data from the [Sloan Digital Sky Survey Classification](https://www.sdss.org/).
 
@@ -56,7 +54,7 @@ Some features are remove as they consist of unique identifiers or are irrelevant
 The following color channels are also removed, as they are highly correlated with each other and another channel:
 `r`, `i`, `z`
 
-## Training and optiizing the model
+## Training and optimizing the model
 
 The algorithm chosen for the classification task is XGBoost Classifier.
 Optimization is acheived with a grid search and the parameters of the best performing model are:
