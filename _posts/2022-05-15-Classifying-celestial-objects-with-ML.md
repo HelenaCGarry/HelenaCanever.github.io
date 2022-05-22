@@ -9,10 +9,10 @@ tags:
   - Sci-kit Learn
 ---
 
-[See on Github](https://github.com/HelenaCanever/Classifying-celestial-objects-with-ML){: .btn .btn--primary}
-
 The aim of this notebook is the classification of observations of space in three different categories: stars, galaxies, quasars.
 To do so I use data from the [Sloan Digital Sky Survey Classification](https://www.sdss.org/).
+
+[See on Github](https://github.com/HelenaCanever/Classifying-celestial-objects-with-ML){: .btn .btn--primary}
 
 ## The data
 The Sloan Digital Sky Survey is a project that periodically provides data from space observations free to the public. This project specifically uses data from the [RD14](https://www.sdss.org/dr14/) data release. 
