@@ -24,6 +24,7 @@ Data was gathered from participants in experimental speed dating events from 200
 
 The dataset also includes questionnaire data gathered from participants at different points in the process. These fields include: demographics, dating habits, self-perception across key attributes, beliefs on what others find valuable in a mate, and lifestyle information.
 
-<img src="../assets/images/speeddating_plot.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/speeddating_plot.png" alt="">
+
 
 
