@@ -6,12 +6,12 @@ comments: false
 ---
 
 ## Bio
-My name is Helena Canever. I was born in Italy and grew up in Italy and Finland.  
+My name is Helena Canever. I'm a budding Data Scientist
 
 ## History
-- born in India
-- grew up in New Jersey, the Garden State
-- living in New York City
+- born in Italy
+- grew up in Italy and Finland
+- living in Paris, France
 
 ## Education
 - Università degli Studi di Padova
