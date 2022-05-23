@@ -27,6 +27,8 @@ The clusters are determined on an hour-by-hour and day-by-day basis.
 ## Data display
 Clusters are displayed on an interactive Plotly graph
 
+{% include Hour_map.html %}
+
 
 
 
