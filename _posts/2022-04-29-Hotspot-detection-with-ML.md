@@ -27,7 +27,13 @@ The clusters are determined on an hour-by-hour and day-by-day basis.
 ## Data display
 Clusters are displayed on an interactive Plotly graph
 
+The map below shows the pickups hotspots hour by hour. The size of the dots is indicative of the size of the hotspot and hovering over the dots will reveal the concerned neighborhood.
+
 {% include Hour_map_mini.html %}
+
+This second map displays the information on a day by day basis, as the hotspots may differ, for example between the weekend and Monday.
+
+{% include Day_map_mini.html %}
 
 
 
