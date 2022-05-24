@@ -51,7 +51,7 @@ The raw scraped data is available in the `scrp` folder.
 ## Data display
 The data is displayed on an interactive map creates with Plotly.
 
-{% include best_hotels.html %}
+{% include best_hotels_mini.html %}
 
 
 ##  ETL
