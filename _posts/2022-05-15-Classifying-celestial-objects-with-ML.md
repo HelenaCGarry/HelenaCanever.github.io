@@ -57,7 +57,7 @@ The following color channels are also removed, as they are highly correlated wit
 ## Training and optimizing the model
 
 The algorithm chosen for the classification task is XGBoost Classifier.
-Algorythm optimization is acheived with a gridsearch and the parameters of the best performing model are:
+Algorythm optimization is achieved with a gridsearch and the parameters of the best performing model are:
 `{'gamma': 1,
  'learning_rate': 0.05,
  'max_depth': 6,
