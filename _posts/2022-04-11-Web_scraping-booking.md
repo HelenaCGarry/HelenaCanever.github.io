@@ -50,6 +50,12 @@ The raw scraped data is available in the `scrp` folder.
 
 ## Data display
 The data is displayed on an interactive map creates with Plotly.
+In the graph below the weather forecast and average perceived temperature for each location  It is also possible to only visualize the top five destinations (as per highest average perceived temperature).
+
+{% include best_locations.html %}
+
+In the floowing graph, one can display the top 20 hotels at each destination. The destinations can be chosen from the selection bar.
+The map shows the name, number of stars, and rating for each hotel.
 
 {% include best_hotels_mini.html %}
 
