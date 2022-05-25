@@ -65,4 +65,4 @@ The map shows the name, number of stars, and rating for each hotel.
 
 ##  ETL
 
-All the information is saved as .csv files (see `data`)and uploaded in an S3 bucket. An SQL Database is created ith AWS RDS.
+All the information is saved as .csv files (see `data`) and uploaded in an S3 bucket. An SQL Database is created on AWS RDS.
