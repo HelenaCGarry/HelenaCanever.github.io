@@ -1,5 +1,5 @@
 ---
-title: "Scraping Booking.com and generating an hotels database of France's best destinations"
+title: "Scraping Booking.com and generating an hotel database of France's best destinations"
 categories:
   - posts
 tags:
