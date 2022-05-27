@@ -64,7 +64,7 @@ A first glance at the decision of participants if their date is of the same race
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/race_match_2_sd.png" alt="">
 
-A more breakdown based on the race of participants shows that a positive bias towards dates of the same race exists for caucasian , black and latino and latina participants, whereas a negative bias is presents in asian participants.
+A breakdown based on the race of participants shows that a positive bias towards dates of the same race exists for caucasian , black and latino and latina participants, whereas a negative bias is presents in asian participants.
 
 Obviously, other factors besides age and race influence people's choices in dating.
 
@@ -72,6 +72,10 @@ The dataset gathers data about people's interest in different activities and top
 Analysing the interest correlation in relation to whether the date results in a match shows that, indeed, sharing interests significantly increase the chances to match.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/int_corr_sd.png" alt="">
+
+```Average interest correlation for matches: 0.226
+Average interest correlation for missed matches: 0.197
+The difference is very significant (p<0.01)```
 
 
 Finally, personality and looks matter too.
@@ -84,14 +88,6 @@ On the other hand, when participants are asked what they expect the opposite sex
 
 Ultimately, when participants are asked to rate their date, regardless of gender, chosen dates score high on all fields (attractive, honest, fun, intelligent, ambicious and shares interests). So maybe participants are right, an attractive partner matters but attractiveness is not looks but is a whole package of qualities. When we like someone we like everything about them, at least at first glance!
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/expect_sd.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/reality_sd.png" alt="">
 
 In conclusion, in dating we should let go of our internal biases, and while being good looking might matter, cultivating other qualities matters most.
-
-
-
-
-
-
-
-
