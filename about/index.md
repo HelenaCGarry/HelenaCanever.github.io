@@ -17,7 +17,9 @@ During this time I grew interested in programming, especially applied to image a
 My thesis focused on tracking of cell migration in different contexts (individual cells and groups of cells with and withour cues) and the modeling of migratory paths to understand the underlying principal components of space exploration of cells. Such understanding can help understand the main kinematic components of normal wound repair and metastasis, which both involve cell migration.
 
 After defending my thesis in 2021, I decided to convert to Data Science and follow my interest for programming and analytics.
-I am currently completing a Data Science bootcamp at Jedha in Paris, France.
+I recentrly completed a Data Science bootcamp at Jedha in Paris, France. My final project consisted in creating an app for the detection of deepfake videos.
+
+My hope for future projects is to be able to use data for good, especially for biotech and biometrics projects.
 
 ## My resume
 
