@@ -23,7 +23,7 @@ My hope for future projects is to be able to use data for good, especially for b
 
 ## My resume
 
-[View]({{ [https://helenacanever.github.io}}/assets/CV_HelenaCanever_2022.pdf)
+[View]({{ [https://helenacanever.github.io}}/assets/CV_2022.pdf)
 
 
 ## Education
