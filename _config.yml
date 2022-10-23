@@ -70,7 +70,7 @@ analytics:
 author:
   name             : "Helena Canever"
   avatar           : "/assets/images/20220603_184141.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Budding data scientist, always learning"
+  bio              : "“I have approximate knowledge of many things.”"
   location         : "Paris, France"
   email            : helena.canever@gmail.com
   uri              :
