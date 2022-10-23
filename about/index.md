@@ -23,7 +23,7 @@ In September 2022 I began working for the Lab division of Talan in Paris, France
 
 My hope for future projects is to be able to use data for good, especially for biotech and biometrics projects.
 
-[View]({{ [https://helenacanever.github.io}}/assets/CV_2022.pdf)
+[View]({{ [https://helenacanever.github.io}}/assets/CV_2022_public.pdf)
 
 
 ## Education
@@ -35,6 +35,7 @@ My hope for future projects is to be able to use data for good, especially for b
 
 ## The things that make me happy
 - Bike Packing
+- Crosswords
 - Sauna
 - Coding
 - Learning
