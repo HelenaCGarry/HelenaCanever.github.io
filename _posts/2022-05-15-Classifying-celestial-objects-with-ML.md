@@ -7,6 +7,9 @@ tags:
   - classification
   - XGBoost
   - Sci-kit Learn
+
+header:
+  teaser: "/assets/images/space_teaser_1.png"
 ---
 
 The aim of this notebook is the classification of observations of astronomical objects in three different categories: stars, galaxies, quasars.
