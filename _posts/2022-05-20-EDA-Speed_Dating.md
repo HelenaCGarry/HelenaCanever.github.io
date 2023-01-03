@@ -7,6 +7,9 @@ tags:
   - Plotly
   - Pandas
   - Scipy
+
+header:
+  teaser: "/assets/images/dating_teaser.png"
 ---
 
 
