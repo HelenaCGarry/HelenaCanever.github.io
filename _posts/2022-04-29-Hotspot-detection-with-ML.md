@@ -11,6 +11,7 @@ tags:
 
 header:
   teaser: "/assets/images/uber_teaser_2.png"
+  image: "/assets/images/uber_teaser_2.png"
 ---
 
 The task at hand is to use Uber data from the month of May 2014 to detect hotspots for Uber pickup in NY to better help drivers be where they are needed.
