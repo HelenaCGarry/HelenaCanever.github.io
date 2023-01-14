@@ -12,7 +12,7 @@ tags:
   - Nominatim
 
 header:
-  teaser: "/assets/images/hotel_teaser.png"
+  teaser: "/assets/images/hotels/hotel_teaser.png"
 ---
 
 The goal of the project is to obtain data on different french cities and travel destination that can be potentially implemented in a recommendation app. The application should be based on real data about:

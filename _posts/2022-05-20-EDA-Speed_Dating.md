@@ -9,7 +9,7 @@ tags:
   - Scipy
 
 header:
-  teaser: "/assets/images/dating_teaser.png"
+  teaser: "/assets/images/dating/dating_teaser.png"
 ---
 
 
@@ -29,7 +29,7 @@ The dataset also includes questionnaire data gathered from participants at diffe
 
 Preliminary exploratory data analysis reveals missing data for most columns. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/raw_data_sd.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/dating/raw_data_sd.png" alt="">
 
 Data cleanup includes removing columns with too many missing values and/or of little value: 
 
@@ -49,23 +49,23 @@ Finally, we remove the participants that were given limited choice, with missing
 The cleaned up data looks like this, with all demographic data (left of the graph) complete.
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/clean_data_sd.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/dating/clean_data_sd.png" alt="">
 
 
 The analysis of the age distribution of participants shows a median age of 26 for females and 27 for males, which is unsurprising given the experiment took place at Columbia University.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/age_dist_sp.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/dating/age_dist_sp.png" alt="">
 
 
 Plotting the age distribution of of participants against their partners as a function of the decision of the partipant to match (1) or not (0), shows that there isn't an evident correlation between age and the decision of participants. Because of the relatively young pool of this experiments, these results cannot allow to draw conclusion about the general population.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/race_match_1_sd.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/dating/race_match_1_sd.png" alt="">
 
 Analysis the race of participants shows that the majority of partipants of both genders are caucasians, and that the proportion of BIPOCs is slightly higher in women. 
 
 A first glance at the decision of participants if their date is of the same race, reveals a small bias towards date of the same race.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/race_match_2_sd.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/dating/race_match_2_sd.png" alt="">
 
 A breakdown based on the race of participants shows that a positive bias towards dates of the same race exists for caucasian , black and latino and latina participants, whereas a negative bias is presents in asian participants.
 
@@ -74,7 +74,7 @@ Obviously, other factors besides age and race influence people's choices in dati
 The dataset gathers data about people's interest in different activities and topics (sport, watching sports, exercise, dining out, museums, art, hiking, gaming, clubbing, reading, watching TV, theater, movies, concerts, music, shopping, yoga) and calculates an interest correlation between participants.
 Analysing the interest correlation in relation to whether the date results in a match shows that, indeed, sharing interests significantly increase the chances to match.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/int_corr_sd.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/dating/int_corr_sd.png" alt="">
 
 ```Average interest correlation for matches: 0.226
 Average interest correlation for missed matches: 0.197
@@ -87,10 +87,10 @@ Males (pink) report value attractiveness, followed by intelligence, honesty and 
 
 On the other hand, when participants are asked what they expect the opposite sex to look for, both overestimate attractiveness (especially females in males, pink), but they predict the importance of a fun personality. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/expect_sd.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/dating/expect_sd.png" alt="">
 
 Ultimately, when participants are asked to rate their date, regardless of gender, chosen dates score high on all fields (attractive, honest, fun, intelligent, ambicious and shares interests). So maybe participants are right, an attractive partner matters but attractiveness is not looks but is a whole package of qualities. When we like someone we like everything about them, at least at first glance!
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/reality_sd.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/dating/reality_sd.png" alt="">
 
 In conclusion, in dating we should let go of our internal biases, and while being good looking might matter, cultivating other qualities matters most.

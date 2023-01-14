@@ -13,7 +13,7 @@ tags:
   - Random Forest Regressor
 
 header:
-  teaser: "/assets/images/walmart_teaser.png"
+  teaser: "/assets/images/walmart/walmart_teaser.png"
 ---
 
 This project is based on the [Walmart Recruiting - Store Sales Forecast dataset](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) on Kaggle.
