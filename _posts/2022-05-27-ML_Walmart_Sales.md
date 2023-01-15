@@ -14,6 +14,7 @@ tags:
 
 header:
   teaser: "/assets/images/walmart/walmart_teaser.png"
+  overlay_image: "/assets/images/walmart/walmart_header.png"
 ---
 
 This project is based on the [Walmart Recruiting - Store Sales Forecast dataset](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) on Kaggle.

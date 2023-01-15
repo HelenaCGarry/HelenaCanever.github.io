@@ -10,6 +10,7 @@ tags:
 
 header:
   teaser: "/assets/images/dating/dating_teaser.png"
+  overlay_image: "/assets/images/dating/dating_header.png"
 ---
 
 

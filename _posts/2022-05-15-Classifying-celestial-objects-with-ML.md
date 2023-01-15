@@ -9,7 +9,8 @@ tags:
   - Sci-kit Learn
 
 header:
-  teaser: "/assets/images/space/space_teaser_1.png"
+  #teaser: "/assets/images/space/space_teaser.png"
+  #overlay_image: "/assets/images/space/space_header.png"
 ---
 
 The aim of this notebook is the classification of observations of astronomical objects in three different categories: stars, galaxies, quasars.
